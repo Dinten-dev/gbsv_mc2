@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit)
+credentials.json
+*.secret
+.env
+.env.*
+
+# Assignment files (personal reference only)
+docs/
