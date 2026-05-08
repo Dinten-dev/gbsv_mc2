@@ -53,4 +53,4 @@ MC2/
 
 ## Author
 
-Traver Correvon – FHNW, FS26
+Traver Dinten – FHNW, FS26
